@@ -53,6 +53,6 @@ Finally, we spend some time introducing the (Analysis of Variance) method for ge
 
 ## Summary
 
-Without a good understanding of experimental design, it's easy to end up confusing spurious correlations fo
+Without a good understanding of experimental design, it's easy to end up confusing spurious correlations for meaningful results or placing too much (or too little) weight on the results of any given test. In this section we cover a range of tools and techniques to ensure that you design your experiments regirously and interpret them thoughtfully.
 
 
