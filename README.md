@@ -13,7 +13,7 @@ You will be able to:
 
 ## Statistical Power
 
-Statistical power is equal to $1 - \beta$ where $\beta$ is the rate of type II errors. As you will see, power is related to $\alpha$, sample size and effect size. Typically a researcher will select an acceptable alpha value and then examine required sample sizes to achieve a desired power such as .8 (or higher). 
+Statistical power is equal to $1 - \beta$ where $\beta$ is the rate of type II errors. As you will see, power is related to $\alpha$, sample size and effect size. Typically a researcher will select an acceptable alpha value and then examine required sample sizes to achieve the desired power such as .8 (or higher). 
 
 ## Welch's t-Test
 
@@ -33,6 +33,7 @@ Finally, you'll take a look at the more generalized procedure for conducting mul
 
 ## Summary
 
-Without a good understanding of experimental design, it's easy to end up drawing false conclusions. In this section you'll cover a range of tools and techniques to deepen your understanding of hypothesis testing and ensure that you design experiments rigorously and interpret them thoughtfully.
+Without a good understanding of experimental design, it's easy to end up drawing false conclusions. In this section, you'll cover a range of tools and techniques to deepen your understanding of hypothesis testing and ensure that you design experiments rigorously and interpret them thoughtfully.
+
 
 
