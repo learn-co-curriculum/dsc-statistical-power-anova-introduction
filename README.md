@@ -7,7 +7,7 @@ In this section you'll continue to deepen your knowledge of hypothesis testing a
 
 ## Statistical power
 
-Statistical power is equal to $1 - \beta$ where $\beta$ is the rate of type II errors. As you will see, power is related to $\alpha$, sample size, and effect size. Typically a researcher will select an acceptable alpha value and then examine required sample sizes to achieve the desired power such as 0.8 (or higher). 
+Statistical power is equal to  <img src="https://render.githubusercontent.com/render/math?math=1 - \beta"> where  <img src="https://render.githubusercontent.com/render/math?math=\beta"> is the rate of type II errors. As you will see, power is related to  <img src="https://render.githubusercontent.com/render/math?math=\alpha"> , sample size, and effect size. Typically a researcher will select an acceptable alpha value and then examine required sample sizes to achieve the desired power such as 0.8 (or higher). 
 
 ## Welch's t-test
 
